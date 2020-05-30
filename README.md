@@ -1,5 +1,6 @@
-# Tugas_JPA
+# Tugas - JPA - RSBK
+
 Anggota Kelompok :
-Heidy Novendra (21120117130035)
-Gagah Pristiyaputra (21120117130053)
-Faiz Noerdiyan Cesara (21120117130060)
+1. Heidy Novendra (21120117130035)
+2. Gagah Pristiyaputra (21120117130053)
+3. Faiz Noerdiyan Cesara (21120117130060)
