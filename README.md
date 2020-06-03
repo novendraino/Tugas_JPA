@@ -7,3 +7,6 @@ Anggota Kelompok :
 
 # Link Tugas
 http://tugasjpasurvei23.s3-website-us-east-1.amazonaws.com
+
+# Screenshot
+![Alt text](https://github.com/novendraino/Tugas_RSBK_JPA/blob/master/ssJPA23.JPG)
