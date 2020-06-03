@@ -9,4 +9,4 @@ Anggota Kelompok :
 http://tugasjpasurvei23.s3-website-us-east-1.amazonaws.com
 
 # Screenshot
-![Alt text](https://github.com/novendraino/Tugas_JPA/blob/master/ssJPA23.JPG)
+![Alt text](https://github.com/novendraino/Tugas_JPA/blob/master/ssJPA23.jpg)
